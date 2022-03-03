@@ -1,0 +1,41 @@
+body {
+  font-size: 10px;
+  background-color:black;
+}
+
+#header {
+  font-size: 1.5rem;
+  background-color: red;
+  display: flex;
+  flex-direction: row;
+}
+#header > div {
+  margin-left: 2rem;
+}
+
+#button {
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-size: 1.5rem;
+}
+
+#country {
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-size: 1.5rem;
+}
+
+option{
+    color:black;
+}
+
+
+/* #news{
+    display: grid;
+    grid-template-columns: 3;
+    grid-template-rows: auto;
+    color:white;
+} */
+
